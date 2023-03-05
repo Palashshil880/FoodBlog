@@ -105,3 +105,25 @@ border-radius: 30px;
     padding: 40px 0px 10px 0px;
 
 }
+.followlist{
+    align-items: center;
+}
+.follow{
+    margin: 100px;
+    padding: 25px 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 50px rgba(97, 79, 79, 0.15);
+    border-radius: 30px;
+}
+.list-iteam{
+    padding: 0px 180px;
+}
+footer{
+    color: #FFFFFF;
+    padding: 40px;
+    text-align: center;
+    background-color: black;
+}
+#span2{
+    color: #676767;
+}
